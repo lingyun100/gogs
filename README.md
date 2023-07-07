@@ -21,3 +21,13 @@ docker run --name=gogs -p 10022:22 -p 3000:3000 -v /tmp/gogs:/data gogs/gogs
 docker start gogs
 ```
 
+## login to dashboard
+```shell
+http://localhost:3000/
+```
+you will see below page, you can choose "SQLite3" as databaseType, then click "Install"
+![](images/choose_sqllite.png)
+
+
+
+
