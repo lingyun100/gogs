@@ -29,4 +29,10 @@ docker start gogs
 7. then system will switch to login page
 
     if you are first time login, you should register firstly. or can directly login.
+    ![](/Users/linyun.xie/code/gogs/images/register.png)
+
+8. after you login, you will see below dashboard
+   ![](/Users/linyun.xie/code/gogs/images/dashboard.png)
+
+9. then you can create new repo / new organization etc, start your happy journal.
 
