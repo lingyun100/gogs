@@ -1,4 +1,4 @@
-# how to use gogs install a repo server in mac device?
+# how to use gogs to install a repo server in mac device?
 1. install docker (you can search in google how to install docker)
 
 2. Pull image from Docker Hub.
